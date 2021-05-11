@@ -1,1 +1,3 @@
 # Exer9
+Utilizando Lineart, crie um conersor de moeda que permita converter um valor em Euros para Reais,Dólres ou kwanzas...
+Programe o conversor de moeda de forma a que preenchido um valor em Euros,quando clicada num dos três botões apareça num Toast o respectivo valor em Kwanzas,real ou dólar.
